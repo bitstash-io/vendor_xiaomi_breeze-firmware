@@ -6,7 +6,7 @@ import shutil
 import argparse
 import sys
 
-DEVICE = "flame"
+DEVICE = "breeze"
 
 ANDROID_MK_HEADER = f"""#
 # Automatically generated file. DO NOT MODIFY
